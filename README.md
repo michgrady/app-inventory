@@ -12,6 +12,7 @@ Upcoming features:
 - [ ] Additional withholdings support
 - [ ] Include State specific guidance
 - [ ] Improve iPad screenshots
+- [ ] Update https://www.nannypayadvisor.com with iOS screenshots
 
 ## Nanny Pay Advisor - Android
 Current release found in Play Store
