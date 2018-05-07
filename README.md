@@ -2,8 +2,8 @@
 Inventory of iOS and Android mobile apps I have developed
 
 ## Nanny Pay Advisor - iOS
-Current release found in App Store
-https://itunes.apple.com/us/app/nanny-pay-advisor-payroll-tax/id1340503159?mt=8
+Current release found in App Store 
+- https://itunes.apple.com/us/app/nanny-pay-advisor-payroll-tax/id1340503159?mt=8
 
 Code is contained in private repository.
 
@@ -15,7 +15,7 @@ Upcoming features:
 
 ## Nanny Pay Advisor - Android
 Current release found in Play Store
-https://play.google.com/store/apps/details?id=com.restructureddesign.nannypayadvisor
+- https://play.google.com/store/apps/details?id=com.restructureddesign.nannypayadvisor
 
 Code is contained in private repository.
 
@@ -26,7 +26,7 @@ Upcoming features:
 
 ## Caregiver Pay Advisor - Android
 Current release found in Play Store
-https://play.google.com/store/apps/details?id=com.restructureddesign.caregiverpay
+- https://play.google.com/store/apps/details?id=com.restructureddesign.caregiverpay
 
 Code is contained in private repository.
 
