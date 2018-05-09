@@ -43,9 +43,9 @@ Not yet released.
 
 Code is contained in private repository.
 
-- [ ] Fix layout on smaller sceens
+- [x] Fix layout on smaller sceens
 - [ ] App icon
-- [ ] Intial release
+- [ ] Initial release
 
 ## Organizer - IOS and Android
 
@@ -53,4 +53,4 @@ Not yet released.
 
 Code is contained in private repository.
 
-- [ ] Intial release
+- [ ] Initial release
