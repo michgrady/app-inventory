@@ -43,8 +43,8 @@ Not yet released.
 
 Code is contained in private repository.
 
-- [x] Fix layout on smaller sceens
-- [ ] App icon
+- [x] Fix layout on smaller screens
+- [x] App icon
 - [ ] Initial release
 
 ## Organizer - IOS and Android
