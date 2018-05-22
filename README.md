@@ -25,6 +25,7 @@ Upcoming features:
 - [ ] Bug fix: Update Subscription code to fix reported crash
 - [ ] Improve State specific guidance
 - [ ] Improve income tax support 
+- [ ] Ability to turn off FICA withholding
 
 ## Caregiver Pay Advisor - Android
 Current release found in Play Store
@@ -45,10 +46,11 @@ Current release found in Play Store
 Code is contained in private repository.
 
 Upcoming features:
-- [ ] Left alignment of document text
-- [ ] Make deletion of document harder to do accidentally
-- [ ] Tips on how to better capture text
-- [ ] Issue seen of adding new document after one deleted
+- [x] Make deletion of document harder to do accidentally
+- [x] Tips on how to better capture text
+- [ ] Translations for Tips dialog 
+- [ ] Add iPad screenshots
+- [ ] Subtitles on promo video
 
 ## Organizer - IOS and Android
 
