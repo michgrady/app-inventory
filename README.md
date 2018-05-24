@@ -46,11 +46,8 @@ Current release found in Play Store
 Code is contained in private repository.
 
 Upcoming features:
-- [x] Make deletion of document harder to do accidentally
-- [x] Tips on how to better capture text
-- [ ] Translations for Tips dialog 
-- [ ] Add iPad screenshots
-- [ ] Subtitles on promo video
+- [ ] Improve layout of ads on iPad  
+- [ ] iPad screenshots
 
 ## Organizer - IOS and Android
 
