@@ -8,10 +8,9 @@ Current release found in App Store
 Code is contained in private repository.
 
 Upcoming features:
-- [ ] Ability to turn off FICA withholding
 - [ ] Support multiple employees
-- [ ] Additional withholdings support
-- [ ] Include State specific guidance
+- [ ] PIT support
+- [ ] Include State specific guidance for setup
 - [ ] Improve iPad screenshots
 - [ ] Update https://www.nannypayadvisor.com with iOS screenshots
 
