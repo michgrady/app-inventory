@@ -11,7 +11,6 @@ Upcoming features:
 - [ ] Support multiple employees
 - [ ] PIT support
 - [ ] Include State specific guidance for setup
-- [ ] Improve iPad screenshots
 - [ ] Update https://www.nannypayadvisor.com with iOS screenshots
 
 ## Nanny Pay Advisor - Android
