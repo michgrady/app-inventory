@@ -20,8 +20,6 @@ Current release found in Play Store
 Code is contained in private repository.
 
 Upcoming features:
-- [ ] Ability to edit Approved date 
-- [ ] Ability to show entire week for work dates
 - [ ] Bug fix: Update Subscription code to fix reported crash
 - [ ] Improve State specific guidance
 - [ ] Improve income tax support 
