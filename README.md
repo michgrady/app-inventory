@@ -21,6 +21,7 @@ Code is contained in private repository.
 
 Upcoming features:
 - [ ] Bug fix: Update Subscription code to fix reported crash
+- [ ] Update Subscription management instructions
 - [ ] Improve State specific guidance
 - [ ] Improve income tax support 
 - [ ] Ability to turn off FICA withholding
@@ -33,6 +34,7 @@ Code is contained in private repository.
 
 Upcoming features:
 - [ ] Bug fix: Update Subscription code
+- [ ] Update Subscription management instructions
 - [ ] Improve State specific guidance
 - [ ] Improve income tax support 
 - [ ] Ability to turn off FICA withholding
