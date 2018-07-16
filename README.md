@@ -9,7 +9,6 @@ Code is contained in private repository.
 
 Upcoming features:
 - [ ] Support multiple employees
-- [ ] PIT support
 - [ ] Include State specific guidance for setup
 - [ ] Update https://www.nannypayadvisor.com with iOS screenshots
 - [ ] Allow employee self-tracking of time
