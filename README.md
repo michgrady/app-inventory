@@ -34,7 +34,6 @@ Code is contained in private repository.
 
 Upcoming features:
 - [ ] Bug fix: Update Subscription code
-- [ ] Update Subscription management instructions
 - [ ] Improve State specific guidance
 - [ ] Improve income tax support 
 - [ ] Ability to turn off FICA withholding
