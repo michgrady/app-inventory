@@ -12,6 +12,7 @@ Upcoming features:
 - [ ] Include State specific guidance for setup
 - [ ] Update https://www.nannypayadvisor.com with iOS screenshots
 - [ ] Allow employee self-tracking of time
+- [ ] Add custom note to pay statement
 
 ## Nanny Pay Advisor - Android
 Current release found in Play Store
