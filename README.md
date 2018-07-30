@@ -9,20 +9,14 @@ Code is contained in private repository.
 
 Upcoming features:
 - [ ] Support multiple employees
-- [ ] Include State specific guidance for setup
 - [ ] Update https://www.nannypayadvisor.com with iOS screenshots
 - [ ] Allow employee self-tracking of time
-- [ ] Add custom note to pay statement
 
 ## Nanny Pay Advisor - Android
 Current release found in Play Store
 - https://play.google.com/store/apps/details?id=com.restructureddesign.nannypayadvisor
 
 Code is contained in private repository.
-
-Upcoming features:
-- [ ] Improve income tax support 
-- [ ] Ability to turn off FICA withholding
 
 ## Caregiver Pay Advisor - Android
 Current release found in Play Store
