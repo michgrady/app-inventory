@@ -9,12 +9,14 @@ Code is contained in private repository.
 
 Upcoming features:
 - [ ] Support multiple employees
-- [ ] Update https://www.nannypayadvisor.com with iOS screenshots
 - [ ] Allow employee self-tracking of time
 
 ## Nanny Pay Advisor - Android
 Current release found in Play Store
 - https://play.google.com/store/apps/details?id=com.restructureddesign.nannypayadvisor
+
+App landing page
+- https://www.nannypayadvisor.com
 
 Code is contained in private repository.
 
@@ -33,10 +35,6 @@ Current release found in Play Store
 - https://play.google.com/store/apps/details?id=com.restructureddesign.scanny
 
 Code is contained in private repository.
-
-Upcoming features:
-- [ ] Improve layout of ads on iPad  
-- [ ] iPad screenshots
 
 ## Organizer - IOS and Android
 
