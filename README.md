@@ -18,6 +18,15 @@ Current release found in Play Store
 App landing page
 - https://www.nannypayadvisor.com
 
+Feature Requests:
+- [ ] Ability to add custom withholding in addition to standard withholdings
+- [ ] Input past payments for mid-year start so YTD # are correct
+- [ ] Time Card: Input total hours per week rather than per day
+- [ ] Allow employee self-tracking of time
+- [ ] Schedule: Track changes and update date automatically
+- [ ] Print shifts on paystub
+- [ ] Cloud save: Set folder and option to put prefix on file name all the time like Nanny name
+
 Code is contained in private repository.
 
 ## Caregiver Pay Advisor - Android
