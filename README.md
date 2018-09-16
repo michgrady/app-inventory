@@ -35,10 +35,6 @@ Current release found in Play Store
 
 Code is contained in private repository.
 
-Upcoming features:
-- [ ] Improve income tax support 
-- [ ] Ability to turn off FICA withholding
-
 ## Doc.io - Android
 Current release found in Play Store
 - https://play.google.com/store/apps/details?id=com.restructureddesign.scanny
