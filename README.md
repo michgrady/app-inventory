@@ -8,6 +8,7 @@ Current release found in App Store
 Code is contained in private repository.
 
 Upcoming features:
+- [ ] Allow 2 different pay rates in one period (1.5x holiday pay, for example, or nanny share with different rates per # children present) 
 - [ ] Support multiple employees
 - [ ] Allow employee self-tracking of time
 
