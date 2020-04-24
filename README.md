@@ -8,8 +8,8 @@ Current release found in App Store
 Code is contained in private repository.
 
 Upcoming features:
-- [ ] Allow 2 different pay rates in one period (1.5x holiday pay, for example, or nanny share with different rates per # children present) 
-- [ ] Support multiple employees
+- [x] Allow 2 different pay rates in one period (1.5x holiday pay, for example, or nanny share with different rates per # children present) 
+- [x] Support multiple employees
 - [ ] Allow employee self-tracking of time
 
 ## Nanny Pay Advisor - Android
@@ -20,13 +20,11 @@ App landing page
 - https://www.nannypayadvisor.com
 
 Feature Requests:
-- [ ] Ability to add custom withholding in addition to standard withholdings
-- [ ] Input past payments for mid-year start so YTD # are correct
+- [x] Ability to add custom withholding in addition to standard withholdings
+- [x] Input past payments for mid-year start so YTD # are correct
 - [ ] Time Card: Input total hours per week rather than per day
 - [ ] Allow employee self-tracking of time
-- [ ] Schedule: Track changes and update date automatically
-- [ ] Print shifts on paystub
-- [ ] Cloud save: Set folder and option to put prefix on file name all the time like Nanny name
+- [x] Print shifts on paystub
 
 Code is contained in private repository.
 
@@ -42,10 +40,3 @@ Current release found in Play Store
 
 Code is contained in private repository.
 
-## Organizer - IOS and Android
-
-Not yet released. 
-
-Code is contained in private repository.
-
-- [ ] Initial release
