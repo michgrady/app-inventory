@@ -1,5 +1,7 @@
 # app-inventory
-Inventory of iOS and Android mobile apps I have developed
+Inventory of iOS and Android mobile apps I have developed and have ownership of. Application development performed for clients not included here.  
+
+All code is contained in private repositories. 
 
 ## pleasy - iOS
 Current release found in the App Store
@@ -27,5 +29,3 @@ Current release found in Play Store
 ## Doc.io - Android
 Current release found in Play Store
 - https://play.google.com/store/apps/details?id=com.restructureddesign.scanny
-
-All code is contained in private repositories.
